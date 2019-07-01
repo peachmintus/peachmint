@@ -1,65 +1,68 @@
 {
 	"meta" : [{
 	"disclosure":"The words in this document reflect the opinion of the author. We all must draw our own conclusions.",
-	"lastUpdated":"6/23/2019"
+	"dedication":"To our kids. We're sorry. We're trying.",
+	"lastUpdated":"6/29/2019"
 	}],
 	"reasons" : [{
-	"Criminal Acts":[
+	"Criminal Acts":{
+		"desc" : "The President has engaged in illegal activity, but impeachment is the only way to try a sitting President.",
+		"listedReasons":[
 		{ "Title" : "Obstruction - Efforts to Fire Robert Mueller",
 		"fbp" : "The press reported that Don McGhan threatened to quit instead of carrying out an order to fire Robert Mueller.",
 		"sbp" : "President Trump asked McGhan to deny the reports publicly, despite them being true. ",
 		"tbp" : "The President asked McGhan to file documents that refuted the reporting. ",
 		"why" : "The President attempted to mislead the public regarding his intentions toward firing Robert Mueller, asked his staff to lie publicly, and attempted to create a false paper trail. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Obstruction - Efforts to manipulate Michael Flynn Investigation",
 		"fbp" : "Michael Flynn lied to the FBI about his discussions with the Russian Ambassador regarding sanctions related to election meddling. ",
 		"sbp" : "President Trump attempted to manipulate the director of the FBI, James Comey into dropping the investigation in Flynn.",
 		"tbp" : "President Trump directed Deputy National Security Advisor K.T. MacFarland to document Trump’s lack of involvement in the Flynn’s talks, but MacFarland declined as he didn’t know this to be factual.",
 		"why" : "The President illegally obstructed justice by attempting to use  his influence to stop an FBI investigation and to unethically establish a record of innocence. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Obstruction - The termination of James Comey",
 		"fbp" : "President Trump fired James Comey after Comey declined to answer congressional questions about a personal investigation into Trump. ",
 		"sbp" : "The President officially stated that the termination was over his handling of the Clinton Email Investigation, but he later said in a television interview that it was connected to the Russia investigation. ",
 		"tbp" : "Speaking to Russian Officials, President Trump expressed relief that the “Great pressure because of Russia” had been “taken off” by Comey’s firing. ",
 		"why" : "The President fired the man who was investigating him to either hinder the investigation or to seek a more sympathetic investigator.",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii","iii","vi"]
 		},
 		{ "Title" : "Obstruction - Early Efforts to Control the Mueller Investigation",
 		"fbp" : "After the firing of James Comey and appointment of Robert Mueller as Special Prosecutor, President Trump demanded the resignation of Attorney General Jeff Sessions- a resignation which he did not ultimately accept. ",
 		"sbp" : "President Trump claimed that Mueller was conflicted in an attempt to discredit or have him removed, but these claims were determined frivolous by the Department of Justice.",
 		"tbp" : "Despite the DoJ findings, President Trump asked Don McGhan to publicly call for the removal of the Special Prosecutor. McGhan refused this request. ",
 		"why" : "The President sought to have Mueller discredited and removed, illegally interfering with a federal election. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Obstruction - Efforts to Control the ongoing Mueller Investigation",
 		"fbp" : "President Trump sought out former campaign chairman Cory Lewandowski to deliver a message to Attorney General Jeff Sessions.",
 		"sbp" : "President Trump asked the Attorney General to make a public statement to say that the investigation was unfair and was only to focus on future cases of election meddling.",
 		"tbp" : "Lewandowski did not deliver this message, despite the President’s insistence. Eventually Lewandowski delegated the task to Rick Dearborn, who declined to act on it.",
 		"why" : "President Trump attempted to narrow the scope of the Mueller investigation aware from him through back channels and erode public trust in the process. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Obstruction - Automatic Rejection of Subpoenas",
 		"fbp" : "The White House is attempting to block Don McGhan from providing testimony to the House and has supported his defiance of the subpoena for documents.",
 		"sbp" : "The administration has rejected a subpoena for President Trump’s tax records.",
 		"tbp" : "President Trump has stated he has a blanket policy of non-cooperation with House subpoenas, stating “We’re fighting all the Subpoenas” calling them the Democrats “Weapon of Choice.”",
 		"why" : "President Trump's blanket rejection of all subpoenas from the House is a rejection of constitutional Congressional Oversight.  ",
-		"sources" : ["a","b","c"]
+		"sources" : ["vii","viii","ix"]
 		},
 		{ "Title" : "Witness Intimidation - Conduct involving Michael Cohen",
 		"fbp" : "President Trump created a “party line” regarding Trump’s business dealings in Moscow to keep the truth from the Public.",
 		"sbp" : "President Trump publicly praised Michael Cohen’s testimony, despite knowing that Michael Cohen’s testimony was false.",
 		"tbp" : "When Michael Cohen admitted he lied to congress and sough to cooperate with the investigation- the President called him a rat",
-		"why" : "The President orchestrated a lie, praised his lawyer for repeating the lie, and used mafia insults against him when he told the truth. ",
-		"sources" : ["a","b","c"]
+		"why" : "The President orchestrated a lie, praised his lawyer for repeating the lie, and used mafia-style insults against him when he told the truth.",
+		"sources" : ["i","ii","x","xi"]
 		},
 		{ "Title" : "Witness Manipulation- Conduct involving Michael Flynn and Paul Manafort ",
 		"fbp" : "Michael Flynn left a joint defense agreement with the President and began to cooperate with the Mueller Investigation.",
 		"sbp" : "The President’s attorneys still asked for information from Flynn’s defense team, and when refused said they would pass along news of this “hostility” to the President.",
 		"tbp" : "At the same time, President Trump publically praised Paul Manafort’s refusal to cooperate with investigators. ",
 		"why" : "The President attempted to influence witnesses in a federal investigation to either not cooperate or to funnel information to his lawyers. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		},
 
 		{ "Title" : "Campaign Finance Violation - Payment to Stephanie Clifford",
@@ -67,7 +70,7 @@
 		"sbp" : "The President denied everything regarding this fact, from the affair to the payments to the source of the payments, even when his personal lawyer showed the checks used for Reimbursement. ",
 		"tbp" : "Michael Cohen was charged in New York Sate for this election finance violation and Donald Trump was referrer to as “Individual 1”, and unindicted co-conspirator. ",
 		"why" : "The President broke campaign finance law, lied about it, and attempted to cover it up repeatedly. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["v","xxx"]
 		},
 
 		{ "Title" : "Emoluments – Receiving foreign payments",
@@ -75,118 +78,354 @@
 		"sbp" : "In many cases, the payers explicitly stated they made these payments to influence presidential favor.",
 		"tbp" : "Sources of payment include the Philippine and Saudi government buying blocks of rooms at Trump properties, the Chinese government granting copyrights to Trump branded companies, and paying for access at Mar-a-Lago.",
 		"why" : "The President is personally enriching himself through foreign payments and not providing any oversight to show there isn’t a conflict of interest.  ",
-		"sources" : ["a","b","c"]
-		}
-	],
-	"Fitness for Office":[
+		"sources" : ["xiii","xii"]
+		}]
+	},
+	"Fitness for Office":{
+	"desc" : "The Presidency is a difficult and complex job. The president is not fit to administer it.",
+	"listedReasons":[
 		{ "Title" : "Mental Health",
 		"fbp" : "President Trump’s temperament has led him to storm out of legislative meetings, his aides to move warships, and to abruptly change policy via tweet. ",
 		"sbp" : "His speech is often incoherent and riddled with paranoia about conspiracy theories and rigged elections. Basic spelling and facts are often incorrect. ",
 		"tbp" : "Over 50,000 mental health professionals have raised alarm over his fitness to serve and asked he be removed from office citing the 25th amendment. ",
 		"why" : "The president’s declining mental health leaves him unable to effectively carry out the duties of president. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["xvi","xx"]
 		},
-		{ "Title" : "Understanding of Economic Policy",
-		"fbp" : "The president repeatedly claims that foreign countries are paying us tariffs. ",
-		"sbp" : "President Trump has built his economic negotiation strategy around tariffs. ",
-		"tbp" : "At every opportunity, The President has shown that he does not understand how tariffs work and who pays them- often bragging about the tariff income from foreign countries, when it is US Importers that pay for the tariff. ",
-		"why" : "A president may not always be certain of the effects of his actions, but it is foolish to remain unaware of what you are doing. ",
-		"sources" : ["a","b","c"]
+		{ "Title" : "Lack of Understanding of Basic Government Concepts",
+		"fbp" : "At every opportunity, The President has shown that he does not understand how tariffs work and who pays them- often bragging about the tariff income from foreign countries, when it is US Importers that pay for the tariff.",
+		"sbp" : "He believes “Busing” has to do primarily with school transportation, missing the actual issue which deals with desegregation efforts. ",
+		"tbp" : "Responding to Vladimir Putin's disparagement of Western Liberalism, The President discussed California. He did not understand what Western Liberalism is the political philosophy of Europe, the US, and Canada but rather thought it had to do with US Liberalism.",
+		"why" : "The President may have been forgiven for ignorance as an outsider, but after three years he has shown no capacity for improvement. We can't allow someone with such low infromation to make so many important decisions.",
+		"sources" : ["xvii","iv"]
 		},
 		{ "Title" : "Unethical, Unqualified, and Nepotistic staffing",
 		"fbp" : "President Trump has provided security clearance for his family members and friends of the family to serve as advisors despite their lack of experience.",
-		"sbp" : "Many of his early staffing choices ended up getting arrested for their involvement with foreign dictators. ",
-		"tbp" : "His AG helped cover up Iran Contra. His head of DoE wanted to abolish the DoE. His head of the EPA is a former coal lobbyist. His National Security Advisor lied about WMD in Iraq. His Department of Education chair is a Republican Donor who never taught in a public school. ",
+		"sbp" : "Many of Trump's early picks were fired, quit, or indicted.",
+		"tbp" : "His AG helped cover up Iran Contra. His head of DoE wanted to abolish the DoE. His head of the EPA is a former coal lobbyist. His National Security Advisor lied about WMD in Iraq. His Department of Education chair is a Republican Donor who never taught in a public school. His lead advisor on China trade wars was found on Amazon. ",
 		"why" : "The president has built a team of unqualified individuals to lead our country, and created an environment where all principled members of the administration have left or been fired. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii","xxi","xxii","xxiii","xxiv","xxv","xxvi","xxxiii"]
 		}
-	],
-	"Unamerican Behavior":[
+	]},
+	"Unamerican Behavior":{
+	"desc" : "In order to lead The United States, you must reject authoritarians and their habits.",
+	"listedReasons":[
 		{ "Title" : "Soliciting Assistance from Foriegn Adversaries",
 		"fbp" : "In 2016, the President invited Russia to find missing Hillary Clinton emails.",
 		"sbp" : "During his campaign, he repeatedly asked Michael Flynn to make connections that would lead to getting Hillary's emails.",
 		"tbp" : "In 2019, President Trump told ABC News he thought he would take information China or Russia if offered, and that the FBI director was wrong to say it should be reported because that isn't what happens in the real world.",
 		"why" : "The President has put political rivalries above loyalty to the nation, seeking assistance from our adversaries and mocking the idea of its illegality.",
-		"sources" : ["a","b","c"]
+		"sources" : ["xiv","i","ii"]
 		},
 		{ "Title" : "Using Executive Power for Politcal Protection",
 		"fbp" : "Attorney General Jeff Sessions recused himself from oversight of the Mueller Investigation, due to his personal involvement in the matter being investigated. ",
 		"sbp" : "President Trump urged Sessions to violate his ethics and unrecuse, stating that he should have an Attorney General that would “protect” him. ",
 		"tbp" : "In addition, the President sought public support from intelligence agencies to dispel the rumors of a personal investigation of the President. ",
 		"why" : "The attorney general and other members of the administration were repeatedly asked to bend their ethics to personally protect the President. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Attacks and Threats on Political Opponents",
 		"fbp" : "The president asked Attorney General Jeff Sessions to investigate Hillary Clinton.",
 		"sbp" : "Consistently at rallies and in public communications, he has referred to investigations into him as “Treason”, with threats of jail sentences for investigators.  ",
 		"tbp" : "The President authorized Attorney General Bob Barr to declassify any material needed to investigate those who investigated him. ",
 		"why" : "The president is not above opposition or investigation. Using threats of prosecution and treason against those who investigate or disagree is unethical and unamerican.",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","xxviii","xxvii"]
 		},
 		{ "Title" : "Demonizing the Media",
 		"fbp" : "President Trump repeatedly refers to the press as “The Enemy of the People”",
 		"sbp" : "He has vilified them at his rallies, shared a video of him bodyslamming a representation of CNN, and has had public verbal arguments with reporters.",
 		"tbp" : "Violence against reporters has increased, including pipe bombs sent to CNN.",
 		"why" : "The President has no respect for the concept of a free press- an American ideal. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["xxix","xxxi"]
 		},
 		{ "Title" : "Embracing Authoritarians",
 		"fbp" : "The president has legitimized the North Korean dictator and agreed to end military exercises with South Korea",
 		"sbp" : "He Praised the Philippines dictator for his work on drug policy, a policy that includes human rights violations and the execution of 12,000 accused drug dealers.  ",
-		"tbp" : "He has unilaterally authorized the transfer of nuclear secrets to Saudi Arabia. ",
-		"why" : "The president has embraced foreign dictators that oppose democracy and human rights. ",
-		"sources" : ["a","b","c"]
+		"tbp" : "He has unilaterally authorized the transfer of nuclear secrets to Saudi Arabia and handwaved the murder of a US Based reporter due to financial concerns. ",
+		"why" : "The president has embraced foreign dictators that actively oppose democracy and human rights. ",
+		"sources" : ["xxxiv","xxxv","xxxvii"]
 		},
 		{ "Title" : "Inhumane Border Policy",
 		"fbp" : "The president initated a zero tolerance policy towards border crossings with no plan for the results.",
 		"sbp" : "Requests for asylum were repeatedly denied, in violation of the law. Children were separated from their families, detained in unsafe conditions. 24 people have died in custody including 6 children. ",
 		"tbp" : "The Administration has claimed this is a necessary deterrent. The president told border agents to ignore judges. ",
 		"why" : "The President is breaking the law regarding asylum seekers, encouraging his agents to act outside of the law, separating families, and undermining the US status as a bastion of human rights. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["xxxviii","xxxix"]
 		}
-	],
-	"Abuse of the Public Trust":[
+	]},
+	"Abuse of the Public Trust":{
+	"desc" : "The President consistently lies to protect his image, interests, and attack rivals. Such consistent deciet is not consistent with a Democracy. ",
+	"listedReasons":[
 		{ "Title" : "Lying about Russian Connections",
 		"fbp" : "During the 2016 the President publicly called into question the source of Hacked DNC Emails, despite attempted coordination with Russian affiliated hackers. ",
 		"sbp" : "The President claimed no business dealings with Russia while at the same time getting updates from Michael Cohen regarding the plans for Trump Tower Moscow.",
 		"tbp" : "Trump believed that if he acknowledged any connections to Russia it would delegitimize his electoral victory.",
 		"why" : "The President had motive to lie regarding his connections to Russia and did so repeatedly. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["i","ii"]
 		}
-	],
-	"Moral Character":[
+	]},
+	"Moral Character":{
+	"desc" : "A President must have demonstrated personal ethics. If not, how can we trust him to work in our best interest.",
+	"listedReasons":[
 		{ "Title" : "Sexual Misconduct with Women.",
 		"fbp" : "President Trump told Howard Stern he would look at undressed contestants at Miss Universe contests, and told Billy Bush that he could insert his tongue in women's mouths or grab their genitals without asking because he was wealthy.",
 		"sbp" : "Many Miss Universe contestants confirmed this behavior, both on and off the record.",
 		"tbp" : "15 women have come forward with claims of sexual assault. Some are as he bragged about, others are allegations of forcible rape.",
 		"why" : "The President has stated that he snuck in dressing rooms, forcibly kissed women, and groped them without consent. This behavior matches the claims of over a dozen women.",
-		"sources" : ["a","b","c"]
+		"sources" : ["xxxx","xviii","xix"]
 		},
 		{ "Title" : "Personal Business Habits",
 		"fbp" : "The president had built his case for governance on his business prowess.",
 		"sbp" : "It has come to light nationally that he refused to pay his contractors as a matter of policy, hired undocumented workers and threatened to deport them, and had connections to Russian lending to save him economically in the early 00’s. ",
 		"tbp" : "The President would take out loans, refuse to pay, then sue the lenders when they attempted to collect. ",
 		"why" : "The President's poor business practices and possibly illegal behavior has led to a shutdown of transparency and opened him to influence from his lenders. ",
-		"sources" : ["a","b","c"]
+		"sources" : ["xxxxiv","xxxxiii","xxxxii","xxxxi"]
 		}
-		
-	]
+	]}
 	}],
 	"sources":[{
-	"a":{
+	"i":{
 	"title":"Full Mueller Report ",
 	"desc":"From 2017-2019 the Office of the Special Counsel, led by Robert Mueller, investigated foreign influence in the 2016 election. The report has two sections. The first covers potential foreign influence, the second covers efforts to interfere with the investigation. ",
 	"url":"https://www.justice.gov/storage/report.pdf",
 	"type":"Government Record"},
-	"b":{
+	"ii":{
 	"title":"Mueller Report - Executive Summaries",
 	"desc":"Summaries of the principal findings of the Office of the Special Counsel investigation.",
 	"url":"https://www.lawfareblog.com/full-text-mueller-reports-executive-summaries",
 	"type":"Government Record"},
-	"c":{
+	"iii":{
 	"title":"Lester Holt’s White House Interview",
 	"desc":"In this video, the President admits he fired James Comey for reasons related to the Russsia investigation.",
 	"url":"https://www.nbcnews.com/nightly-news/video/pres-trump-s-extended-exclusive-interview-with-lester-holt-at-the-white-house-941854787582",
-	"type":"Video"}
+	"type":"Video"},
+	"iv":{
+	"title":"Transcript of Osaka G20 Talks",
+	"desc":"In a press conference after G20 talks, the President shows that he doesnt understand the terms 'busing' and 'western liberalism' in the political context.",
+	"url":"https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-conference-osaka-japan/",
+	"type":"Government Record"},
+	"v":{
+	"title":"Check used to Reimburse Michael Cohen ",
+	"desc":"Evidence of campaign finance violations provided to Congress through Michael Cohen’s testimony.",
+	"url":"https://www.pbs.org/newshour/politics/see-the-check-michael-cohen-will-say-trump-signed-as-reimbursement-payment",
+	"type":"News Article"},
+	"vi":{
+	"title":"Trump’s words to Russian officials regarding Comey Firing ",
+	"desc":"Confirmed by the Mueller Report, Trump said “I just fired the head of the F.B.I. He was crazy, a real nut job.” “I faced great pressure because of Russia. That’s taken off.”",
+	"url":"https://www.nytimes.com/2017/05/19/us/politics/trump-russia-comey.html",
+	"type":"News Article"},
+	"vii":{
+	"title":"Trump tells reporters he will fight all subpoenas ",
+	"desc":"When asked about subpoenas for Don McGhan and others, President Trump says “Well, we're fighting all the subpoenas. Look, these aren't like impartial people. The Democrats are trying to win 2020.”",
+	"url":"https://www.c-span.org/video/?460099-1/president-trump-pledges-fight-congressional-subpoenas",
+	"type":"Video"},
+	"viii":{
+	"title":"White House Orders Hope Hicks to Defy House Subpoena ",
+	"desc":"As a matter of policy, the White House is ordering employees and former employees not to cooperate with Congressional investigations",
+	"url":"https://time.com/5600692/hope-hicks-house-subpoena/",
+	"type":"News Article"},
+	"ix":{
+	"title":"Trump Vows Stonewall of All House Subpoenas ",
+	"desc":"A discussion of the Presidential policy of ignoring calls for Congressional oversight.",
+	"url":"https://www.nytimes.com/2019/04/24/us/politics/donald-trump-subpoenas.html",
+	"type":"News Article"},
+	"x":{
+	"title":"Trump’s Pre-Cooperation Comments on Cohen ",
+	"desc":"The President defends Michael Cohen before Cohen begins cooperating with the Mueller investigation.",
+	"url":"https://twitter.com/realDonaldTrump/status/987679848284999680",
+	"type":"Tweet"},
+	"xi":{
+	"title":"Trump’s Post-Cooperation Comments on Cohen ",
+	"desc":"The President calls Cohen a “rat” for cooperating with the Mueller investigation.",
+	"url":"https://twitter.com/realDonaldTrump/status/1074313153679450113",
+	"type":"Tweet"},
+	"xii":{
+	"title":"Emoluments Lawsuit - DC Attorney General’s Office ",
+	"desc":"In 2017, Attorney General Racine and Maryland Attorney General Brian Frosh sued President Trump for violating the Constitution’s Emoluments Clauses.",
+	"url":"https://oag.dc.gov/about-oag/emoluments-lawsuit",
+	"type":"Government Records"},
+	"xiii":{
+	"title":"Mar-a-Lago Fee Increase. ",
+	"desc":"The Mar-A-Lago membership fee has doubled since the President was elected. Membership includes foreign nationals. ",
+	"url":"https://www.cnbc.com/2017/01/25/mar-a-lago-membership-fee-doubles-to-200000.html",
+	"type":"News Article"},
+	"xiv":{
+	"title":"Trump asks Russia for Hillary Clinton’s Emails ",
+	"desc":"Addressing the Press in 2016, candidate Trump calls out to Russia, suggesting they find Hillary Clinton’s emails.  ",
+	"url":"https://www.c-span.org/video/?c4615538/donald-trump-asks-russia-find-hillary-clintons-emails",
+	"type":"Video"},
+	"xv":{
+	"title":"President Trump Open to Accepting Campaign Dirt from Foreigners ",
+	"desc":"In an interview with ABC News, Trump says “I think I’d take it” in regards to accepting dirt on an opponent from a foreign government.  ",
+	"url":"https://abcn.ws/2WGRAUi",
+	"type":"Video"},
+	"xvi":{
+	"title":"Example of President’s “Deep State” Thoughts ",
+	"desc":"The President cites a deep state spy conspiracy against him.   ",
+	"url":"https://twitter.com/realdonaldtrump/status/999242039723163648",
+	"type":"Tweet"},
+	"xvii":{
+	"title":"The President on Tariffs ",
+	"desc":"President Trump incorrectly describes how China pays tariffs to the US. ",
+	"url":"https://twitter.com/realdonaldtrump/status/1125069835044573186",
+	"type":"Tweet"},
+	"xviii":{
+	"title":"Access Hollywood Transcript ",
+	"desc":"Before becoming President, Donald Trump brags about how he would kiss women and grab their genitals without asking. ",
+	"url":"https://www.bbc.com/news/election-us-2016-37595321",
+	"type":"Transcript"},
+	"xix":{
+	"title":"Miss Universe Allegations ",
+	"desc":"Donald Trump was accused of walking in on undressed contestants at Miss Universe Contests, something he bragged about doing with Howard Stern",
+	"url":"https://www.politifact.com/wisconsin/article/2016/oct/18/allegations-about-donald-trump-and-miss-teen-usa-c/",
+	"type":"Fact Checker Website"},
+	"xx":{
+	"title":"Mental Health Workers Petition ",
+	"desc":"A group known as “Duty to Warn” collected Tens of Thousands of mental healthcare workers who believe the President’s mental state makes him unfit for office.",
+	"url":"https://www.change.org/p/trump-is-mentally-ill-and-must-be-removed",
+	"type":"Petition"},
+	"xxi":{
+	"title":"Security Clearances For Family ",
+	"desc":"The President intervenes to grant security clearances to members of his family, despite objections from his own administration. ",
+	"url":"https://www.npr.org/2019/03/01/699317698/battle-over-security-clearances-accelerates-with-report-of-trump-intervention",
+	"type":"News Article"},
+	"xxii":{
+	"title":"William Barr – Iran Contra Pardons ",
+	"desc":"William Barr supported pardons for those convicted by a special prosecutor during Iran Contra",
+	"url":"https://www.npr.org/2019/01/14/684553791/william-barr-supported-pardons-in-an-earlier-d-c-witch-hunt-iran-contra",
+	"type":"News Article"},
+	"xxiii":{
+	"title":"Rick Parry Regrets Call to Abolish Dept. of Energy ",
+	"desc":"During his confirmation hearings, Perry was asked about his interest in abolishing the Department of Energy. He wanted to abolish three agencies, and the DoE was the one he couldn’t remember by name. ",
+	"url":"https://www.nytimes.com/2017/01/19/us/politics/rick-perry-energy-department.html",
+	"type":"News Article"},
+	"xxiv":{
+	"title":"John Bolton: Bush-era war hawk makes comeback ",
+	"desc":"John Bolton was instrumental in the George W. Bush administration's build up to Iraq.",
+	"url":"https://www.bbc.com/news/world-us-canada-37989338",
+	"type":"News Article"},
+	"xxv":{
+	"title":"Trump to name coal lobbyist as deputy EPA chief ",
+	"desc":"President Trump appointed Andrew Wheeler to deputy EPA Chief. Wheeler would take over the position after the departure of Scott Pruitt. ",
+	"url":"https://thehill.com/blogs/blog-briefing-room/news/324418-trump-to-name-coal-lobbyist-as-deputy-epa-chief-report",
+	"type":"News Article"},
+	"xxvi":{
+	"title":"Why is Betsy DeVos, Trump's pick for education secretary, so unpopular? ",
+	"desc":"Betsy Devos appointed the head of the Department of Education despite having no education experience. ",
+	"url":"https://www.bbc.com/news/world-us-canada-38875924",
+	"type":"News Article"},
+	"xxvii":{
+	"title":"The 24 times Trump has accused somebody of treason ",
+	"desc":"President Trump has repeatedly referred to his political enemies’ activities as “Treason”",
+	"url":"https://www.axios.com/trump-treason-russia-investigation-new-york-times-e1660029-c73c-4809-8bd5-8988f1ed4fda.html",
+	"type":"News Article"},
+	"xxviii":{
+	"title":"Barr Is Investigating The Investigators: Will He Find Wrongdoing Or Political Fuel? ",
+	"desc":"Bill Barr has been given broad authority to declassify information regarding the origins of the Russia investigation. This is widely seen as a threat to selectively declassify information to defend the President.",
+	"url":"https://www.npr.org/2019/05/24/726593232/barr-is-investigating-the-investigators-will-he-find-wrongdoing-or-political-fue",
+	"type":"News Article"},
+	"xxx":{
+	"title":"SDNY Cohen Sentencing Memo ",
+	"desc":"Describes the crimes of Michael Cohen and an unindicted co-conspirator “Individual-1” (Donald Trump)",
+	"url":"https://www.politico.com/f/?id=00000167-a496-df35-adef-fdf76fa30001",
+	"type":"Government Record"},
+	"xxix":{
+	"title":"President calling press the Enemy of the People ",
+	"desc":"The president calls out the Mainstream Media to be enemies of the people. ",
+	"url":"https://twitter.com/realdonaldtrump/status/1130433207487336450",
+	"type":"Tweet"},
+	"xxxi":{
+	"title":"Pipe bomb suspect Cesar Sayoc describes Trump rallies as 'new found drug' ",
+	"desc":"Inspired by Trump, Sayoc mails pipe bombs to Trump’s political enemies, including CNN.",
+	"url":"https://www.cnn.com/2019/04/24/us/cesar-sayoc-letter-trump-rallies/index.html",
+	"type":"News Article"},
+	"xxxii":{
+	"title":"U.S., South Korea end spring military drills to back diplomacy ",
+	"desc":"The President promised the dictator of North Korea to stop training with South Korea, and he kept that promise to the brutal authoritarian. ",
+	"url":"https://www.pbs.org/newshour/world/us-south-korea-end-spring-military-drills-to-back-diplomacy",
+	"type":"News Article"},
+	"xxxiii":{
+	"title":"Kushner found Trump advisor Navarro by browsing Amazon ",
+	"desc":"Kushner, President Trump's son-in-law and senior adviser, was asked by Trump to do research on China, and turned to Amazon, the report said. There, he found a book co-written by Peter Navarro and was struck by its title, Death by China.",
+	"url":"https://thehill.com/homenews/administration/328969-report-kushner-found-trump-economic-advisor-navarro-by-browsing",
+	"type":"News Article"},
+	"xxxiv":{
+	"title":"U.S., South Korea end spring military drills to back diplomacy",
+	"desc":"The President promised the dictator of North Korea to stop training with South Korea, and he kept that promise to the brutal authoritarian. ",
+	"url":"https://www.pbs.org/newshour/world/us-south-korea-end-spring-military-drills-to-back-diplomacy",
+	"type":"News Article"},
+	"xxxv":{
+	"title":"Trump urges death penalty for drug dealers",
+	"desc":"President Trump considers changes to US Drug Policy, referring to countries like the Philippines where extra-judicial killing of criminals is under investigation by human rights agencies.  ",
+	"url":"https://www.bbc.com/news/world-us-canada-43465229",
+	"type":"News Article"},
+	"xxxvii":{
+	"title":"Trump Administration’s Efforts to Transfer Sensitive Nuclear Technology to Saudi Arabia",
+	"desc":"The Trump Administration is attempting to transfer sensitive nuclear technology and secrets to Saudi Arabia without oversight. ",
+	"url":"https://oversight.house.gov/sites/democrats.oversight.house.gov/files/Trump%20Saudi%20Nuclear%20Report%20-%202-19-2019.pdf",
+	"type":"Government Record"},
+	"xxxviii":{
+	"title":"Leaked Documents Regarding Border Policy",
+	"desc":"Jeff Merkley leaked documents confirming that the border crisis was designed that way as a deterrent. This was an intentional crisis. ",
+	"url":"https://www.documentcloud.org/documents/5688664-Merkleydocs2.html",
+	"type":"Government Record"},
+	"xxxix":{
+	"title":"Trump encourages Border Patrol to ignore laws",
+	"desc":"Trump pushed to close El Paso border, told admin officials to resume family separations and agents not to admit migrants",
+	"url":"https://www.cnn.com/2019/04/08/politics/trump-family-separation-el-paso-kirstjen-nielsen/index.html",
+	"type":"News Articles"},
+	"xxxx":{
+		"title":"Donald Trump sexual misconduct allegations",
+		"desc":"Updated, sourced list of sexual misconduct allegations against Donald Trump",
+		"url":"https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations",
+		"type":"Wiki"
+	},
+	"xxxxi":{
+		"title":"Undocumented Workers at Trump Tower",
+		"desc":"Donald Trump took advantage of workers building Trump Tower. ",
+		"url":"https://time.com/4465744/donald-trump-undocumented-workers/",
+		"type":"News Article"
+	},
+	"xxxxii":{
+		"title":"Report: Trump once drove Philly cabinetry company out of business",
+		"desc":"Trumps litigious business practices ruined many small businesses involved with Trump Casinos ",
+		"url":"https://www.phillyvoice.com/report-trump-once-drove-philly-cabinetry-company-out-business/",
+		"type":"News Article"
+	},
+	"xxxxiii":{
+		"title":"How Russian Money Helped Save Trump’s Business",
+		"desc":"After his financial disasters two decades ago, no U.S. bank would touch him. Then foreign money began flowing in.",
+		"url":"https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/",
+		"type":"News Article"
+	},
+	"xxxxiv":{
+		"title":"Deutsche Bank / Trump Relationship",
+		"desc":"Donald Trump would routinely sue his lenders, such that only Deutsche Bank would work with him. He still owes them hundreds of millions of dollars. ",
+		"url":"https://www.chicagotribune.com/news/ct-xpm-2008-12-01-0812010030-story.html",
+		"type":"News Article"
+	},
+	"xxxxv":{
+		"title":"",
+		"desc":"",
+		"url":"",
+		"type":""
+	},
+	"xxxxvi":{
+		"title":"",
+		"desc":"",
+		"url":"",
+		"type":""
+	},
+	"xxxxvii":{
+		"title":"",
+		"desc":"",
+		"url":"",
+		"type":""
+	},
+	"xxxxviii":{
+		"title":"",
+		"desc":"",
+		"url":"",
+		"type":""
+	}
 }]
 }
