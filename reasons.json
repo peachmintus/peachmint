@@ -38,7 +38,7 @@
 		"fbp" : "After the firing of James Comey and appointment of Robert Mueller as Special Prosecutor, President Trump demanded the resignation of Attorney General Jeff Sessions- a resignation which he did not ultimately accept. ",
 		"sbp" : "President Trump claimed that Mueller was conflicted in an attempt to discredit or have him removed, but these claims were determined frivolous by the Department of Justice.",
 		"tbp" : "Despite the DoJ findings, President Trump asked Don McGhan to publicly call for the removal of the Special Prosecutor. McGhan refused this request. ",
-		"why" : "The President sought to have Mueller discredited and removed, illegally interfering with a federal election. ",
+		"why" : "The President sought to have Mueller discredited and removed, illegally interfering with a federal investigation. ",
 		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Obstruction - Efforts to Control the ongoing Mueller Investigation",
@@ -46,7 +46,7 @@
 		"fbp" : "President Trump sought out former campaign chairman Cory Lewandowski to deliver a message to Attorney General Jeff Sessions.",
 		"sbp" : "President Trump asked the Attorney General to make a public statement to say that the investigation was unfair and was only to focus on future cases of election meddling.",
 		"tbp" : "Lewandowski did not deliver this message, despite the President’s insistence. Eventually Lewandowski delegated the task to Rick Dearborn, who declined to act on it.",
-		"why" : "President Trump attempted to narrow the scope of the Mueller investigation aware from him through back channels and erode public trust in the process. ",
+		"why" : "President Trump attempted to narrow the scope of the Mueller investigation away from him through back channels and erode public trust in the process. ",
 		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Obstruction - Automatic Rejection of Subpoenas",
@@ -61,7 +61,7 @@
 		"rId" : "cohen",
 		"fbp" : "President Trump created a “party line” regarding Trump’s business dealings in Moscow to keep the truth from the Public.",
 		"sbp" : "President Trump publicly praised Michael Cohen’s testimony, despite knowing that Michael Cohen’s testimony was false.",
-		"tbp" : "When Michael Cohen admitted he lied to congress and sough to cooperate with the investigation- the President called him a rat",
+		"tbp" : "When Michael Cohen admitted he lied to congress and sough to cooperate with the investigation- the President called him a rat.",
 		"why" : "The President orchestrated a lie, praised his lawyer for repeating the lie, and used mafia-style insults against him when he told the truth.",
 		"sources" : ["i","ii","x","xi"]
 		},
@@ -92,8 +92,8 @@
 		{ "Title" : "Campaign Finance Violation - Payment to Stephanie Clifford",
 		"rId" : "fec",
 		"fbp" : "President Trump paid for Stephanie Clifford’s silence regarding a sexual encounter.",
-		"sbp" : "The President denied everything regarding this fact, from the affair to the payments to the source of the payments, even when his personal lawyer showed the checks used for Reimbursement. ",
-		"tbp" : "Michael Cohen was charged in New York Sate for this election finance violation and Donald Trump was referrer to as “Individual 1”, and unindicted co-conspirator. ",
+		"sbp" : "The President denied everything regarding this fact, from the affair to the payments to the source of the payments, even when his personal lawyer showed the checks used for reimbursement. ",
+		"tbp" : "Michael Cohen was charged in New York Sate for this election finance violation and Donald Trump was referrer to as “Individual 1”, an unindicted co-conspirator. ",
 		"why" : "The President broke campaign finance law, lied about it, and attempted to cover it up repeatedly. ",
 		"sources" : ["v","xxx"]
 		},
@@ -120,9 +120,9 @@
 		},
 		{ "Title" : "Lack of Understanding of Basic Government Concepts",
 		"rId" : "understandingConcepts",
-		"fbp" : "At every opportunity, The President has shown that he does not understand how tariffs work and who pays them- often bragging about the tariff income from foreign countries, when it is US Importers that pay for the tariff.",
-		"sbp" : "He believes “Busing” has to do primarily with school transportation, missing the actual issue which deals with desegregation efforts. ",
-		"tbp" : "Responding to Vladimir Putin's disparagement of Western Liberalism, The President discussed California. He did not understand what Western Liberalism is the political philosophy of Europe, the US, and Canada but rather thought it had to do with US Liberalism.",
+		"fbp" : "At every opportunity, The President has shown that he does not understand how tariffs work and who pays them - often bragging about the tariff income from foreign countries, when it is US importers that pay for the tariff.",
+		"sbp" : "He believes “Busing” has to do primarily with school transportation. In reality, the issue of busing is related to school desgregation.",
+		"tbp" : "Responding to Vladimir Putin's disparagement of Western Liberalism, The President discussed Democrats in California. He did not understand what Western Liberalism is the political philosophy of Europe, the US, and Canada.",
 		"why" : "The President may have been forgiven for ignorance as an outsider, but after three years he has shown no capacity for improvement. We can't allow someone with such low infromation to make so many important decisions.",
 		"sources" : ["xvii","xlvii","iv"]
 		},
@@ -130,12 +130,12 @@
 		"rId" : "hiring",
 		"fbp" : "President Trump has provided security clearance for his family members and friends of the family to serve as advisors despite their lack of experience.",
 		"sbp" : "Many of Trump's early picks were fired, quit, or indicted.",
-		"tbp" : "His AG helped cover up Iran Contra. His head of DoE wanted to abolish the DoE. His head of the EPA is a former coal lobbyist. His National Security Advisor lied about WMD in Iraq. His Department of Education chair is a Republican Donor who never taught in a public school. His lead advisor on China trade wars was found on Amazon. ",
+		"tbp" : "His AG helped cover up Iran Contra. His head of DoE wanted to abolish the DoE. His head of the EPA is a former coal lobbyist. His National Security Advisor lied about WMD in Iraq. His Department of Education is led by a Republican Donor who never taught in a public school. His lead advisor on China trade wars was found on Amazon. ",
 		"why" : "The president has built a team of unqualified individuals to lead our country, and created an environment where all principled members of the administration have left or been fired. ",
 		"sources" : ["i","ii","xxi","xxii","xxiii","xxiv","xxv","xxvi","xxxiii"]
 		}
 	]},
-	"Unamerican Behavior":{
+	"Un-American Behavior":{
 	"desc" : "In order to lead The United States, you must reject authoritarians and their habits.",
 	"longDesc" : "The President is often referred to as the leader of the free world. This is because he should idealize the values of free society. Repeatedly, Donald Trump has sided with dictators, given them credibility on the world stage, and buckled to them in negotiation. While he sidles up to authoritarians, he withdraws from our friends and traditional allies. He speaks and acts like an authoritarian and should be impeached before he gets the chance to become one. ",
 	"listedReasons":[
@@ -152,15 +152,15 @@
 		"fbp" : "Attorney General Jeff Sessions recused himself from oversight of the Mueller Investigation, due to his personal involvement in the matter being investigated. ",
 		"sbp" : "President Trump urged Sessions to violate his ethics and unrecuse, stating that he should have an Attorney General that would “protect” him. ",
 		"tbp" : "In addition, the President sought public support from intelligence agencies to dispel the rumors of a personal investigation of the President. ",
-		"why" : "The attorney general and other members of the administration were repeatedly asked to bend their ethics to personally protect the President. ",
+		"why" : "The Attorney General and other members of the administration were repeatedly asked to bend their ethics to personally protect the President. ",
 		"sources" : ["i","ii"]
 		},
 		{ "Title" : "Attacks and Threats on Political Opponents",
 		"rId" : "politicalAttacks",
 		"fbp" : "The president asked Attorney General Jeff Sessions to investigate Hillary Clinton.",
-		"sbp" : "Consistently at rallies and in public communications, he has referred to investigations into him as “Treason”, with threats of jail sentences for investigators.  ",
+		"sbp" : "Consistently at rallies and in public communications, he has referred to investigations into him as “treason”, with threats of jail sentences for investigators.  ",
 		"tbp" : "The President authorized Attorney General Bob Barr to declassify any material needed to investigate those who investigated him. ",
-		"why" : "The president is not above opposition or investigation. Using threats of prosecution and treason against those who investigate or disagree is unethical and unamerican.",
+		"why" : "The President is not above opposition or investigation. Using threats of prosecution and treason against those who investigate or disagree is unethical and unamerican.",
 		"sources" : ["i","xxviii","xxvii"]
 		},
 		{ "Title" : "Demonizing the Media",
@@ -168,15 +168,15 @@
 		"fbp" : "President Trump repeatedly refers to the press as “The Enemy of the People” and casually suggested he could send a journalist to prison for taking a picture.",
 		"sbp" : "He has vilified them at his rallies, shared a video of him bodyslamming a representation of CNN, and has had public verbal arguments with reporters.",
 		"tbp" : "Violence against reporters has increased, including pipe bombs sent to CNN.",
-		"why" : "The President has no respect for the concept of a free press- an American ideal. ",
+		"why" : "The President has no respect for the concept of a free press.",
 		"sources" : ["xxix","xxxi","l","li"]
 		},
 		{ "Title" : "Embracing Authoritarians",
 		"rId" : "authoritarians",
-		"fbp" : "The president has legitimized the North Korean dictator and agreed to end military exercises with South Korea",
-		"sbp" : "He Praised the Philippines dictator for his work on drug policy, a policy that includes human rights violations and the execution of 12,000 accused drug dealers.  ",
-		"tbp" : "He has unilaterally authorized the transfer of nuclear secrets to Saudi Arabia and handwaved the murder of a US Based reporter due to financial concerns. ",
-		"why" : "The president has embraced foreign dictators that actively oppose democracy and human rights. ",
+		"fbp" : "The President has legitimized the North Korean dictator and agreed to end military exercises with South Korea",
+		"sbp" : "He praised the Philippines' dictator for his work on drug policy, a policy that includes human rights violations and the execution of 12,000 accused drug dealers.  ",
+		"tbp" : "He has unilaterally authorized the transfer of nuclear secrets to Saudi Arabia and handwaved the murder of a U.S. Based reporter due to financial concerns. ",
+		"why" : "The President has embraced foreign dictators that actively oppose democracy and human rights. ",
 		"sources" : ["xxxiv","xxxv","xxxvii"]
 		},
 		{ "Title" : "Inhumane Migrant Policy",
@@ -184,13 +184,13 @@
 		"fbp" : "The president initated a zero tolerance policy towards border crossings with no plan for the results.",
 		"sbp" : "Requests for asylum were repeatedly denied, in violation of the law. Children were separated from their families, detained in unsafe conditions. 24 people have died in custody including 6 children. ",
 		"tbp" : "The Administration has claimed this is a necessary deterrent. The president told border agents to ignore judges. ",
-		"why" : "The President is breaking the law regarding asylum seekers, encouraging his agents to act outside of the law, separating families, and undermining the US status as a bastion of human rights. ",
+		"why" : "The President is breaking the law regarding asylum seekers, encouraging his agents to act outside of the law, separating families, and undermining our status as a bastion of human rights. ",
 		"sources" : ["xxxviii","xxxix", "lii"]
 		}
 	]},
 	"Abuse of the Public Trust":{
 	"desc" : "The President consistently lies to protect his image, interests, and attack rivals. Such consistent deciet is not consistent with a Democracy. ",
-        "longDesc" : "Any president might exaggerate, slip up a fact, or break a campaign promise. Donald Trump engages in intentional deception and continues to lie to the American Public about basic established facts. Deliberately misleading the American people for political victory should not be tolerated. Democracy demands a good faith attempt at delivering the truth. Donald Trump is not a truthful man.",
+        "longDesc" : "Any President might exaggerate, slip up a fact, or break a campaign promise. Donald Trump engages in intentional deception and continues to lie to the American Public about basic established facts. Deliberately misleading the American people for political victory should not be tolerated. Democracy demands a good faith attempt at delivering the truth. Donald Trump is not a truthful man.",
 	"listedReasons":[
 		{ "Title" : "Lying about Russian Connections",
 		"rId" : "russiaLies",
@@ -217,7 +217,7 @@
 		"rId" : "sexualAssault",
 		"fbp" : "President Trump told Howard Stern he would look at undressed contestants at Miss Universe contests, and told Billy Bush that he could insert his tongue in women's mouths or grab their genitals without asking because he was wealthy.",
 		"sbp" : "Many Miss Universe contestants confirmed this behavior, both on and off the record.",
-		"tbp" : "15 women have come forward with claims of sexual assault. Some are as he bragged about, others are allegations of forcible rape.",
+		"tbp" : "Fifteen women have come forward with claims of sexual assault. Some are as he bragged about, others are allegations of forcible rape.",
 		"why" : "The President has stated that he snuck in dressing rooms, forcibly kissed women, and groped them without consent. This behavior matches the claims of over a dozen women.",
 		"sources" : ["xl","xviii","xix"]
 		},
@@ -233,8 +233,8 @@
 		"rId" : "rallies",
 		"fbp" : "Cities hosting a Trump rally will face increased public safety costs.",
 		"sbp" : "Since inauguration, the President has never stopped campaigning, often hosting rallies to shore up support among his base.",
-		"tbp" : "Hundreds of thousands of public safety bills have gone unpaid, with no response from the campaign- leaving local tax payers on the hook.",
-		"why" : "The President stiffed workers throughout his career, and that hasn't stopped. Even when those being harmed are communities with large populations of his own voters. ",
+		"tbp" : "Hundreds of thousands of dollars are owed to communities, with no response from the campaign - leaving local tax payers on the hook.",
+		"why" : "The President stiffed workers throughout his career, and that hasn't stopped, even when those being harmed are communities with large populations of his own voters. ",
 		"sources" : ["xlviii"]
 		}
 	]}
