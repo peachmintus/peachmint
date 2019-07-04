@@ -108,6 +108,7 @@
 	},
 	"Fitness for Office":{
 	"desc" : "The Presidency is a difficult and complex job. The president is not fit to administer it.",
+	"longDesc" : "Serving as President of the United States is one of the most difficult jobs that has ever existed. Even great people can and will make mistakes, but competent people will learn from their mistakes, build a cabinet of experts, and learn what needs to be done to execute the office successfully. Donald Trump has done none of these things. He rejects expert opinions, surrounds himself with friends and family, and makes no effort to understand the complexities of the role. He is narcissistic, petty and vindictive. If this is a mental limitation or moral failing on his part is immaterial. He is unfit to serve as President. ",
 	"listedReasons":[
 		{ "Title" : "Mental Health",
 		"rId" : "mentalHealth",
@@ -136,6 +137,7 @@
 	]},
 	"Unamerican Behavior":{
 	"desc" : "In order to lead The United States, you must reject authoritarians and their habits.",
+	"longDesc" : "The President is often referred to as the leader of the free world. This is because he should idealize the values of free society. Repeatedly, Donald Trump has sided with dictators, given them credibility on the world stage, and buckled to them in negotiation. While he sidles up to authoritarians, he withdraws from our friends and traditional allies. He speaks and acts like an authoritarian and should be impeached before he gets the chance to become one. ",
 	"listedReasons":[
 		{ "Title" : "Soliciting Assistance from Foriegn Adversaries",
 		"rId" : "solicitingassistance",
@@ -188,6 +190,7 @@
 	]},
 	"Abuse of the Public Trust":{
 	"desc" : "The President consistently lies to protect his image, interests, and attack rivals. Such consistent deciet is not consistent with a Democracy. ",
+        "longDesc" : "Any president might exaggerate, slip up a fact, or break a campaign promise. Donald Trump engages in intentional deception and continues to lie to the American Public about basic established facts. Deliberately misleading the American people for political victory should not be tolerated. Democracy demands a good faith attempt at delivering the truth. Donald Trump is not a truthful man.",
 	"listedReasons":[
 		{ "Title" : "Lying about Russian Connections",
 		"rId" : "russiaLies",
@@ -208,6 +211,7 @@
 	]},
 	"Moral Character":{
 	"desc" : "A President must have demonstrated personal ethics. If not, how can we trust him to work in our best interest.",
+	"desc" : "Donald Trump has shown no moral fortitude in his actions as a developer, a playboy, a pundit or as President. He has a long history of deplorable behavior that influences his decisions and actions today. The same fears that led him to sue his detractors and silence their stories make him vulnerable to blackmail as his past deeds catch up with him. ",
 	"listedReasons":[
 		{ "Title" : "Sexual Misconduct with Women.",
 		"rId" : "sexualAssault",
