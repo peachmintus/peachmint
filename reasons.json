@@ -2,11 +2,12 @@
 	"meta" : [{
 	"disclosure":"The words in this document reflect the opinion of the author. We all must draw our own conclusions.",
 	"dedication":"To our kids. We're sorry. We're trying.",
-	"lastUpdated":"7/1/2019"
+	"lastUpdated":"7/4/2019"
 	}],
 	"reasons" : [{
 	"Criminal Acts":{
 		"desc" : "The President has engaged in illegal activity, but impeachment is the only way to try a sitting President.",
+		"longDesc" : "It is thought to be true that in a free society, no man is above the law. The Department of Justice as taken the position that a sitting President cannot face charges in a federal court because a sitting President cannot be indicted. This unique situation is offset by a unique form of trial that applies to the President- impeachment. If a President has broken a law- impeachment is the only recourse for justice. It's not extreme. It isn't political. It ensures equal justice under the law. The President has broken laws- and should face the only justice a President can face in office. Impeachment.",
 		"listedReasons":[
 		{ "Title" : "Obstruction - Efforts to Fire Robert Mueller",
 		"fbp" : "The press reported that Don McGhan threatened to quit instead of carrying out an order to fire Robert Mueller.",
@@ -64,7 +65,20 @@
 		"why" : "The President attempted to influence witnesses in a federal investigation to either not cooperate or to funnel information to his lawyers. ",
 		"sources" : ["i","ii"]
 		},
-
+		{ "Title" : "Constitutional Violation - Border Wall State of Emergency",
+		"fbp" : "The President was unable to secure funding for his border wall from Mexico or Congress.",
+		"sbp" : "After a government shutdown went on for too long, the President ended the shutdown but threatened a State of Emergency if he didn't get his wall. ",
+		"tbp" : "When Congress would not fund the wall, he called a state of emergency. When asked, he said he didn't need to but that it would be a faster way to get it done.",
+		"why" : "The President cannot set the budget. He cannot unilaterally appropriate funds. The Border Wall State of Emergency is not constitutional.",
+		"sources" : ["xlix"]
+		},
+		{ "Title" : "Tax Fraud - Trump Golf Courses",
+		"fbp" : "Donald Trump's financial disclosure forms described his Jupiter FL golf course as being worth over 50 million dollars.  ",
+		"sbp" : "Donald Trump's lawyers told tax assessors that the propery was woth no more than 5 million dollars. ",
+		"tbp" : "When testifying to Congress, Michael Cohen confirmed that this happened and was common practice for the Trump Organization.",
+		"why" : "The President routinely engaged in tax fraud related to his properties, hurting taxpayers in the process.  ",
+		"sources" : ["xlv","xlvi"]
+		},
 		{ "Title" : "Campaign Finance Violation - Payment to Stephanie Clifford",
 		"fbp" : "President Trump paid for Stephanie Clifford’s silence regarding a sexual encounter.",
 		"sbp" : "The President denied everything regarding this fact, from the affair to the payments to the source of the payments, even when his personal lawyer showed the checks used for Reimbursement. ",
@@ -72,7 +86,6 @@
 		"why" : "The President broke campaign finance law, lied about it, and attempted to cover it up repeatedly. ",
 		"sources" : ["v","xxx"]
 		},
-
 		{ "Title" : "Emoluments – Receiving foreign payments",
 		"fbp" : "President Trump has received and continues to receive financial payments to his organizations from foreign sources.",
 		"sbp" : "In many cases, the payers explicitly stated they made these payments to influence presidential favor.",
@@ -131,11 +144,11 @@
 		"sources" : ["i","xxviii","xxvii"]
 		},
 		{ "Title" : "Demonizing the Media",
-		"fbp" : "President Trump repeatedly refers to the press as “The Enemy of the People”",
+		"fbp" : "President Trump repeatedly refers to the press as “The Enemy of the People” and casually suggested he could send a journalist to prison for taking a picture.",
 		"sbp" : "He has vilified them at his rallies, shared a video of him bodyslamming a representation of CNN, and has had public verbal arguments with reporters.",
 		"tbp" : "Violence against reporters has increased, including pipe bombs sent to CNN.",
 		"why" : "The President has no respect for the concept of a free press- an American ideal. ",
-		"sources" : ["xxix","xxxi"]
+		"sources" : ["xxix","xxxi","l","li"]
 		},
 		{ "Title" : "Embracing Authoritarians",
 		"fbp" : "The president has legitimized the North Korean dictator and agreed to end military exercises with South Korea",
@@ -149,7 +162,7 @@
 		"sbp" : "Requests for asylum were repeatedly denied, in violation of the law. Children were separated from their families, detained in unsafe conditions. 24 people have died in custody including 6 children. ",
 		"tbp" : "The Administration has claimed this is a necessary deterrent. The president told border agents to ignore judges. ",
 		"why" : "The President is breaking the law regarding asylum seekers, encouraging his agents to act outside of the law, separating families, and undermining the US status as a bastion of human rights. ",
-		"sources" : ["xxxviii","xxxix"]
+		"sources" : ["xxxviii","xxxix", "lii"]
 		}
 	]},
 	"Abuse of the Public Trust":{
@@ -161,6 +174,13 @@
 		"tbp" : "Trump believed that if he acknowledged any connections to Russia it would delegitimize his electoral victory.",
 		"why" : "The President had motive to lie regarding his connections to Russia and did so repeatedly. ",
 		"sources" : ["i","ii"]
+		},
+		{ "Title" : "Lying about Census Citizenship question.",
+		"fbp" : "The Trump administrtion wanted to add a question regarding citizenship to the Census to better enforce the Voting Rights Act.",
+		"sbp" : "Files discovered from GOP operatives show that the question was intended to decrease census completion among likely democrat voters, allowing for more advantageous redistricting. ",
+		"tbp" : "The Trump administration lost at the Supreme Court because John Roberts did not accept the dishonesty.",
+		"why" : "",
+		"sources" : ["liii", "liv"]
 		}
 	]},
 	"Moral Character":{
@@ -171,14 +191,21 @@
 		"sbp" : "Many Miss Universe contestants confirmed this behavior, both on and off the record.",
 		"tbp" : "15 women have come forward with claims of sexual assault. Some are as he bragged about, others are allegations of forcible rape.",
 		"why" : "The President has stated that he snuck in dressing rooms, forcibly kissed women, and groped them without consent. This behavior matches the claims of over a dozen women.",
-		"sources" : ["xxxx","xviii","xix"]
+		"sources" : ["xl","xviii","xix"]
 		},
 		{ "Title" : "Personal Business Habits",
 		"fbp" : "The president had built his case for governance on his business prowess.",
 		"sbp" : "It has come to light nationally that he refused to pay his contractors as a matter of policy, hired undocumented workers and threatened to deport them, and had connections to Russian lending to save him economically in the early 00’s. ",
 		"tbp" : "The President would take out loans, refuse to pay, then sue the lenders when they attempted to collect. ",
 		"why" : "The President's poor business practices and possibly illegal behavior has led to a shutdown of transparency and opened him to influence from his lenders. ",
-		"sources" : ["xxxxiv","xxxxiii","xxxxii","xxxxi"]
+		"sources" : ["xliv","xliii","xlii","xli"]
+		},
+		{ "Title" : "Nonpayment of Debts to Communities for Trump Rallies",
+		"fbp" : "A city hosting a Trump Rally faces increased public safety costs.",
+		"sbp" : "Since inauguration, the President has never stopped campaigning, often hosting rallies to shore up support among his base.",
+		"tbp" : "Hundreds of thousands of public safety bills have gone unpaid, with no response from the campaign- leaving local tax payers on the hook.",
+		"why" : "The President stiffed workers throughout his career, and that hasn't stopped. Even when those being harmed are communities with large populations of his own voters. ",
+		"sources" : ["xlviii"]
 		}
 	]}
 	}],
@@ -264,8 +291,8 @@
 	"url":"https://twitter.com/realdonaldtrump/status/999242039723163648",
 	"type":"Tweet"},
 	"xvii":{
-	"title":"The President on Tariffs ",
-	"desc":"President Trump incorrectly describes how China pays tariffs to the US. ",
+	"title":"The President on Tariffs (1) ",
+	"desc":"President Trump incorrectly describes how China pays tariffs to the US (1). ",
 	"url":"https://twitter.com/realdonaldtrump/status/1125069835044573186",
 	"type":"Tweet"},
 	"xviii":{
@@ -373,59 +400,95 @@
 	"desc":"Trump pushed to close El Paso border, told admin officials to resume family separations and agents not to admit migrants",
 	"url":"https://www.cnn.com/2019/04/08/politics/trump-family-separation-el-paso-kirstjen-nielsen/index.html",
 	"type":"News Articles"},
-	"xxxx":{
+	"xl":{
 		"title":"Donald Trump sexual misconduct allegations",
 		"desc":"Updated, sourced list of sexual misconduct allegations against Donald Trump",
 		"url":"https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations",
 		"type":"Wiki"
 	},
-	"xxxxi":{
+	"xli":{
 		"title":"Undocumented Workers at Trump Tower",
 		"desc":"Donald Trump took advantage of workers building Trump Tower. ",
 		"url":"https://time.com/4465744/donald-trump-undocumented-workers/",
 		"type":"News Article"
 	},
-	"xxxxii":{
+	"xlii":{
 		"title":"Report: Trump once drove Philly cabinetry company out of business",
 		"desc":"Trumps litigious business practices ruined many small businesses involved with Trump Casinos ",
 		"url":"https://www.phillyvoice.com/report-trump-once-drove-philly-cabinetry-company-out-business/",
 		"type":"News Article"
 	},
-	"xxxxiii":{
+	"xliii":{
 		"title":"How Russian Money Helped Save Trump’s Business",
 		"desc":"After his financial disasters two decades ago, no U.S. bank would touch him. Then foreign money began flowing in.",
 		"url":"https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/",
 		"type":"News Article"
 	},
-	"xxxxiv":{
+	"xliv":{
 		"title":"Deutsche Bank / Trump Relationship",
 		"desc":"Donald Trump would routinely sue his lenders, such that only Deutsche Bank would work with him. He still owes them hundreds of millions of dollars. ",
 		"url":"https://www.chicagotribune.com/news/ct-xpm-2008-12-01-0812010030-story.html",
 		"type":"News Article"
 	},
-	"xxxxv":{
-		"title":"",
-		"desc":"",
-		"url":"",
-		"type":""
+	"xlv":{
+		"title":"Michael Cohen Testimony Regarding Tax and Insurance Scams",
+		"desc":"During questioning from Alexandria Ocasio-Cortez, Michael Cohen testifies that President Trump would fraudulently inflate or deflate the value of his properties to make the best of insurance or tax implications. ",
+		"url":"https://www.c-span.org/video/?c4783793/aoc-stone-cold-questioning-michael-cohen",
+		"type":"video"
 	},
-	"xxxxvi":{
-		"title":"",
-		"desc":"",
-		"url":"",
-		"type":""
+	"xlvi":{
+		"title":"Trump claims his golf courses are worth tens of millions. Until the tax bill arrives.",
+		"desc":"The value of President Trump's golf courses seem to change when it comes time to pay the tax bill. This Washington Post article examines this potential fraud.",
+		"url":"https://www.washingtonpost.com/politics/how-much-does-trump-claim-his-golf-courses-are-worth-it-depends-who-needs-to-know/2016/08/21/71828f3a-5f3c-11e6-9d2f-b1a3564181a1_story.html",
+		"type":"News Article"
 	},
-	"xxxxvii":{
-		"title":"",
-		"desc":"",
-		"url":"",
-		"type":""
+	"xlvii":{
+		"title":"The President on Tariffs (2) ",
+		"desc":"President Trump incorrectly describes how China pays tariffs to the US (2).",
+		"url":"https://twitter.com/realdonaldtrump/status/1145097774402342912",
+		"type":"tweet"
 	},
-	"xxxxviii":{
-		"title":"",
-		"desc":"",
-		"url":"",
-		"type":""
+	"xlviii":{
+		"title":"Why the Trump campaign won’t pay police bills",
+		"desc":"The President has skipped out on local bills for public safety when having rallies and campaign stops.",
+		"url":"https://publicintegrity.org/federal-politics/donald-trump-police-cities-bills-maga-rallies/",
+		"type":"News Article"
+	},
+	"xlix":{
+		"title":"Trump admits to a reporter he didn't need to declare a state of emergency.",
+		"desc":"When asked about declaring a state of emergency to get his wall built, he admits that he only made the declaration to get it done faster and that politics were involved.",
+		"url":"https://www.c-span.org/video/?c4780806/trump-admitting-national-emergency-declaration-win-election",
+		"type":"video"
+	},
+	"l":{
+		"title":"Virtual Act of Treason Comments",
+		"desc":"The President calls the New York Times the enemy of the people and accuses them of virtual treason.",
+		"url":"https://twitter.com/realDonaldTrump/status/1140065300186128384",
+		"type":"tweet"
+	},
+	"li":{
+		"title":"President off-handedly threatens reporter with prison.",
+		"desc":"When a reporter tries to take a picture of a document, the President says he could end up in prison for that action.",
+		"url": "https://time.com/5611476/donald-trump-transcript-time-interview/",
+		"type":"News Article"
+	},
+	"lii":{
+		"title":"OIG Report on Migrant Detainees",
+		"desc":"OIG Reports unsafe overcrowding at CBP facilities.",
+		"url":"https://www.documentcloud.org/documents/6178541-FinalDocumentsRedacted.html",
+		"type":"Government Document"
+	},
+	"liii":{
+		"title":"Supreme Court ruling against citizenship question.",
+		"desc":"The Supreme Court voted 5-4 to prevent the addition of a citizenship question on the 2020 Census.",
+		"url":"https://www.supremecourt.gov/opinions/18pdf/18-966_bq7c.pdf",
+		"type":"Government Document"
+	},
+	"liii":{
+		"title":"Lawyers say documents show census was changed to give Republicans an edge",
+		"desc":"The addition of a citizenship question was considered as a means to secure future GOP election results.",
+		"url":"https://www.pbs.org/newshour/politics/lawyers-say-documents-show-census-was-changed-to-give-republicans-an-edge",
+		"type":"News Article"
 	}
 }]
 }
