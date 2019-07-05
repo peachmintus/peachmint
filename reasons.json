@@ -7,7 +7,7 @@
 	"reasons" : [{
 	"Criminal Acts":{
 		"desc" : "The President has engaged in illegal activity, but impeachment is the only way to try a sitting President.",
-		"longDesc" : "It is thought to be true that in a free society, no man is above the law. The Department of Justice as taken the position that a sitting President cannot face charges in a federal court because a sitting President cannot be indicted. This unique situation is offset by a unique form of trial that applies to the President- impeachment. If a President has broken a law- impeachment is the only recourse for justice. It's not extreme. It isn't political. It ensures equal justice under the law. The President has broken laws- and should face the only justice a President can face in office. Impeachment.",
+		"longDesc" : "In the United States, no man is above the law. The Department of Justice as taken the position that a sitting President cannot face charges in a federal court because a sitting President cannot be indicted. This unique situation is offset by a unique form of trial that applies to the President - impeachment. If a President has broken a federal law, impeachment is the only recourse for justice. The President has broken laws and should be impeached.",
 		"listedReasons":[
 		{ "Title" : "Obstruction - Efforts to Fire Robert Mueller",
 		"rId" : "FiringMueller",
