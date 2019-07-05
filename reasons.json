@@ -211,7 +211,7 @@
 	]},
 	"Moral Character":{
 	"desc" : "A President must have demonstrated personal ethics. If not, how can we trust him to work in our best interest.",
-	"desc" : "Donald Trump has shown no moral fortitude in his actions as a developer, a playboy, a pundit or as President. He has a long history of deplorable behavior that influences his decisions and actions today. The same fears that led him to sue his detractors and silence their stories make him vulnerable to blackmail as his past deeds catch up with him. ",
+	"longDesc" : "Donald Trump has shown no moral fortitude in his actions as a developer, a playboy, a pundit or as President. He has a long history of deplorable behavior that influences his decisions and actions today. The same fears that led him to sue his detractors and silence their stories make him vulnerable to blackmail as his past deeds catch up with him. ",
 	"listedReasons":[
 		{ "Title" : "Sexual Misconduct with Women.",
 		"rId" : "sexualAssault",
